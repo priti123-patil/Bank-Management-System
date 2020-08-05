@@ -1,0 +1,11 @@
+Name:priti
+Account: 1
+Address: latur
+Balance: 500
+Transaction:
+2020-08-04	100		deposit			500Name:priti
+Account: 1
+Address: latur
+Balance: 500
+Transaction:
+2020-08-04	100		deposit			500
